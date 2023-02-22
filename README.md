@@ -1,6 +1,13 @@
-Implementing only with Numpy:
-The coursework is about implementing a k-nearest neighbors (k-NN) classifier and using it to classify two datasets: the IRIS PLANT and the PIMA INDIANS DIABETES. The goal was to report the percentage of correct classification as a function of the number of nearest neighbors, using cross-validation to obtain the results.
+The Projects goal was the implementation using only the `Numpy` library of classifiers and the evaluation of their performance on the IRIS PLANT and the PIMA INDIANS DIABETES datasets.
 
-Additionally, for the PIMA INDIANS DIABETES DATABASE, estimations od the probability density functions (PDFs) using different assumptions were performed and measures of the goodness of the fits were calculated. Furthermore, a Bayes classifier was implemented, and its performance with the k-NN classifier was compared.
+The classifiers implented are the following:
+---
+- A k-nearest neighbors (k-NN) classifier, allowing for the selection of the distance metric between euclidean distance , manhattan distance, mahalanobis distance and chebyshev distance.
 
-Finally, the perceptron algorithm was used to examine whether the data of each class (of the IRIS PLANT DATABASE) is linearly separable from the data of the combined remaining classes.
+A Bayesian classifier, able to utilize different assumptions about the covariance of the features:
+- diagonal covariance matrices
+- non-diagonal covariance matrices 
+- Components of the feature vectors that are mutually statistically independent (Naïve Bayes approach)
+
+- Finally, the single layer perceptron algorithm was implented.
+---- 
