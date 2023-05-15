@@ -1,4 +1,4 @@
-The project's goal was the implementation using only the Numpy library of classifiers and the evaluation of their performance on the IRIS PLANT and the PIMA INDIANS DIABETES datasets.
+Implementation using **only** the Numpy library of classifiers and the evaluation of their performance on the IRIS PLANT and the PIMA INDIANS DIABETES datasets.
 
 The classifiers implemented are the following:
 ---
