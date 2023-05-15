@@ -1,4 +1,4 @@
-Implementation using **only** the Numpy library of classifiers and the evaluation of their performance on the IRIS PLANT and the PIMA INDIANS DIABETES datasets.
+Implementation using **ONLY** the Numpy library of classifiers and the evaluation of their performance on the iris plant and the pima indians diabetes datasets.
 
 The classifiers implemented are the following:
 ---
