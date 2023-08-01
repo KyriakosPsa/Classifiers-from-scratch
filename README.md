@@ -1,4 +1,8 @@
-Implementation using **ONLY** the Numpy library of classifiers and the evaluation of their performance on the iris plant and the pima Indians diabetes datasets.
+# Building Classifiers from scratch
+
+This work is one of a series of two distinct repositories that collectively constitute the coursework focused on Classical Machine Learning methods for the Data Science & Information Technologies masters course: Μ124 - Machine Learning at the National and Kapodistrian University of Athens (NKUA) during the Fall 2022 semester. The other repository deals with [Regression from scratch](https://github.com/KyriakosPsa/Regression-from-scratch).
+
+# Overview
 
 The classifiers implemented are the following:
 ---
